@@ -1,0 +1,74 @@
+{
+    "Mercury": {
+        "semi_major_axis": 0.38709843,
+        "eccentricity": 0.20563661,
+        "inclination": 7.00559432,
+        "mean_long": 252.25166724,
+        "mean_long_change": 149472.67486623,
+        "long_peri": 77.45771895,
+        "long_node": 48.33961819
+    },
+    "Venus": {
+        "semi_major_axis": 0.72332102,
+        "eccentricity": 0.00676399,
+        "inclination": 3.39777545,
+        "mean_long": 181.97970850,
+        "mean_long_change": 58517.81560260,
+        "long_peri": 131.76755713,
+        "long_node": 76.67261496
+    },
+    "Earth": {
+        "semi_major_axis": 1.00000018,
+        "eccentricity": 0.01673163,
+        "inclination": -0.00054346,
+        "mean_long": 100.46691572,
+        "mean_long_change": 35999.37306329,
+        "long_peri": 102.93005885,
+        "long_node": -5.11260389
+    },
+    "Mars": {
+        "semi_major_axis": 1.52371243,
+        "eccentricity": 0.09336511,
+        "inclination": 1.85181869,
+        "mean_long": -4.56813164,
+        "mean_long_change": 19140.29934243,
+        "long_peri": -23.91744784,
+        "long_node": 49.71320984
+    },
+    "Jupiter": {
+        "semi_major_axis": 5.20248019,
+        "eccentricity": 0.04853590,
+        "inclination": 1.29861416,
+        "mean_long": 34.33479152,
+        "mean_long_change": 3034.90371757,
+        "long_peri": 14.27495244,
+        "long_node": 100.29282654
+    },
+    "Saturn": {
+        "semi_major_axis": 9.54149883,
+        "eccentricity": 0.05550825,
+        "inclination": 2.49424102,
+        "mean_long": 50.07571329,
+        "mean_long_change": 1222.11494724,
+        "long_peri": 92.86136063,
+        "long_node": 113.63998702
+    },
+    "Uranus": {
+        "semi_major_axis": 19.18797948,
+        "eccentricity": 0.04685740,
+        "inclination": 0.77298127,
+        "mean_long": 314.20276625,
+        "mean_long_change": 428.49512595,
+        "long_peri": 172.43404441,
+        "long_node": 73.96250215
+    },
+    "Neptune": {
+        "semi_major_axis": 30.06952752,
+        "eccentricity": 0.00895439,
+        "inclination": 1.77005520,
+        "mean_long": 304.22289287,
+        "mean_long_change": 218.46515314,
+        "long_peri": 46.68158724,
+        "long_node": 131.78635853
+    }
+}
